@@ -1,7 +1,3 @@
-/*
- * Nama : Hega Cendikia Elanda
- * NPM : 0619101012
- */
 package gaji;
 
 import java.util.Scanner;
